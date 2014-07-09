@@ -1,4 +1,4 @@
-1- What is this?
+1- What is this??
 	* This is a Joomla! installation/upgrade package to version 3.x
 	* Joomla! Official site: http://www.joomla.org
 	* Joomla 3.1 version history - http://docs.joomla.org/Joomla_3.1_version_history
